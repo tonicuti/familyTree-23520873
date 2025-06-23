@@ -29,7 +29,7 @@ Cài đặt:
 pip install -r requirement.txt
 ```
 
-### ✅ Frontend (Node.js)
+### Frontend (Node.js)
 
 Các thư viện cần thiết đã được liệt kê trong **`requirement-fe.txt`**.
 
@@ -48,9 +48,9 @@ npm install
 
 ---
 
-## ▶️ Hướng dẫn chạy dự án
+## Hướng dẫn chạy dự án
 
-### 1️⃣ Chạy Backend (FastAPI)
+### Chạy Backend (FastAPI)
 
 ```bash
 uvicorn main:app --reload
@@ -61,7 +61,7 @@ uvicorn main:app --reload
 
 ---
 
-### 2️⃣ Chạy Frontend (React + Vite)
+### Chạy Frontend (React + Vite)
 
 ```bash
 cd frontend
@@ -72,7 +72,7 @@ npm run dev
 
 ---
 
-## 📁 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 ```
 family-tree/
@@ -97,7 +97,7 @@ family-tree/
 
 ---
 
-## ✨ Một số tính năng chính
+## Một số tính năng chính
 
 * Thêm, xóa thành viên gia đình
 * Quản lý mối quan hệ: cha, mẹ, con
